@@ -6,7 +6,7 @@ CareerPilot AI is an AI-powered platform that analyzes a user's resume and GitHu
 
 > *"CareerPilot AI doesn't just ask what skills you have — it verifies what you've actually built, and shows you exactly what's next."*
 
-Built in 48 hours for **Hackathon 2026**.
+Built for **Artificial Intelligence Semester Project**.
 
 ---
 
@@ -139,7 +139,7 @@ CareerPilotAI/
 
 ```bash
 # Clone the repository
-git clone https://github.com/aquibali01/CareerPilotAI.git
+git clone https://github.com/syedghulamahmed/CareerPilotAI.git
 cd CareerPilotAI
 
 # Install dependencies
@@ -167,13 +167,13 @@ The app will open automatically in your browser at `http://localhost:8501`.
 CareerPilot AI is deployed on Streamlit Community Cloud — no installation needed:
 
 **🔗 [Live App Link]
- https://careerpilotai-4zkjzygspvf6hg7ngwupls.streamlit.app/**
+ https://careerpilotai-dumudrmzgqm3d4iggggdmp.streamlit.app/**
 
 ---
 
 ## 👥 Team
 
-Built by a team of 5 in 48 hours for Hackathon 2026:
+Built by a team of 4 for Artificial Intelligence Semester Project:
 
 | Member | Role |
 |---|---|
@@ -182,7 +182,7 @@ Built by a team of 5 in 48 hours for Hackathon 2026:
 | **Syed Ali Jafri** | Business Advisor Engineer — Idea Generation & Validation |
 | **Muhammad Usman** | Streamlit / UI Engineer — Application & Integration |
 
-> **Note:** While Members 3, 4, and 5 owned their respective modules, Anum Usman Khan was directly involved in testing, debugging, and validating each of their components — including resolving dependency and environment errors, verifying live AI outputs, fixing import and integration issues, and confirming the Streamlit application ran end-to-end before submission.
+> **Note:** While Members 2, 3, and 4 owned their respective modules, Syed Ghulam Ahmed was directly involved in testing, debugging, and validating each of their components — including resolving dependency and environment errors, verifying live AI outputs, fixing import and integration issues, and confirming the Streamlit application ran end-to-end before submission.
 
 ---
 
@@ -197,4 +197,4 @@ Built by a team of 5 in 48 hours for Hackathon 2026:
 
 ## 📄 License
 
-This project was built for Hackathon 2026. Licensing details to be added.
+This project was built for Artificial Intelligence Semester Project. Licensing details to be added.
