@@ -1,6 +1,6 @@
 """
 CareerPilot AI — Main Streamlit App
-Owner: Member 5 (Streamlit / UI Engineer)
+Owner: Member 4 (Streamlit / UI Engineer)
 
 VISUAL REDESIGN ONLY.
 All pipeline logic, function calls, session-state keys, and control flow
