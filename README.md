@@ -177,11 +177,10 @@ Built by a team of 5 in 48 hours for Hackathon 2026:
 
 | Member | Role |
 |---|---|
-| **Anum Usman Khan** | Team Lead — Documentation, Presentation & Cross-Team Support |
-| **Aquib Ali** | Shared Pipeline Engineer — CV + GitHub Verification |
-| **Nimra Nadeem** | Career Advisor Engineer — Scoring, Gap & Roadmap |
-| **Syed Ghulam Ahmed** | Business Advisor Engineer — Idea Generation & Validation |
-| **Noor-ul-Ain** | Streamlit / UI Engineer — Application & Integration |
+| **Syed Ghulam Ahmed** | Team Lead — Documentation, Presentation & Cross-Team Support | Shared Pipeline Engineer — CV + GitHub Verification |
+| **Muhammad Usman** | Career Advisor Engineer — Scoring, Gap & Roadmap |
+| **Muhammad Numan** | Business Advisor Engineer — Idea Generation & Validation |
+| **Syed Ali Jafri** | Streamlit / UI Engineer — Application & Integration |
 
 > **Note:** While Members 3, 4, and 5 owned their respective modules, Anum Usman Khan was directly involved in testing, debugging, and validating each of their components — including resolving dependency and environment errors, verifying live AI outputs, fixing import and integration issues, and confirming the Streamlit application ran end-to-end before submission.
 
