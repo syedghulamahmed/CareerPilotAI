@@ -183,7 +183,7 @@ Built by a team of 5 for Artificial Intelligence Semester Project:
 | **Muhammad Usman** | Business Advisor Engineer — Idea Generation & Validation |
 | **Muhammad Aliyan** | Streamlit / UI Engineer — Application & Integration |
 
-> **Note:** While Members 1, 2, 3 and 4 owned their respective modules, Syed Ghulam Ahmed was directly involved in testing, debugging, and validating each of their components — including resolving dependency and environment errors, verifying live AI outputs, fixing import and integration issues, and confirming the Streamlit application ran end-to-end before submission.
+> **Note:** While Members 2, 3, 4 and 5 owned their respective modules, Syed Ghulam Ahmed was directly involved in testing, debugging, and validating each of their components — including resolving dependency and environment errors, verifying live AI outputs, fixing import and integration issues, and confirming the Streamlit application ran end-to-end before submission.
 
 ---
 
