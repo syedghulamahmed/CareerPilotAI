@@ -173,16 +173,17 @@ CareerPilot AI is deployed on Streamlit Community Cloud — no installation need
 
 ## 👥 Team
 
-Built by a team of 4 for Artificial Intelligence Semester Project:
+Built by a team of 5 for Artificial Intelligence Semester Project:
 
 | Member | Role |
 |---|---|
-| **Syed Ghulam Ahmed** | Team Lead — Documentation, Presentation & Cross-Team Support, Shared Pipeline Engineer — CV + GitHub Verification |
+| **Syed Ghulam Ahmed** | Team Lead — Documentation, Presentation & Cross-Team Support |
+| **Syed Ali Jafri** | Shared Pipeline Engineer — CV + GitHub Verification |
 | **Muhammad Numan** | Career Advisor Engineer — Scoring, Gap & Roadmap |
-| **Syed Ali Jafri** | Business Advisor Engineer — Idea Generation & Validation |
-| **Muhammad Usman** | Streamlit / UI Engineer — Application & Integration |
+| **Muhammad Usman** | Business Advisor Engineer — Idea Generation & Validation |
+| **Muhammad Aliyan** | Streamlit / UI Engineer — Application & Integration |
 
-> **Note:** While Members 2, 3, and 4 owned their respective modules, Syed Ghulam Ahmed was directly involved in testing, debugging, and validating each of their components — including resolving dependency and environment errors, verifying live AI outputs, fixing import and integration issues, and confirming the Streamlit application ran end-to-end before submission.
+> **Note:** While Members 1, 2, 3 and 4 owned their respective modules, Syed Ghulam Ahmed was directly involved in testing, debugging, and validating each of their components — including resolving dependency and environment errors, verifying live AI outputs, fixing import and integration issues, and confirming the Streamlit application ran end-to-end before submission.
 
 ---
 
